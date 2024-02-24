@@ -1,0 +1,1 @@
+const arrayNumber = [1, 2, 3]
